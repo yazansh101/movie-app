@@ -20,25 +20,10 @@ A movie app made in Flutter with clean architecture using BLoC, Hive and the mov
 - TV show season details
 
 
+## Screens
+![](https://github.com/yazansh101/movie-app/assets/90346216/bb2ddfb5-4d66-41e3-b970-677f3668203b)
+![](https://github.com/yazansh101/movie-app/assets/90346216/738e5e62-56ca-4ab7-9f2d-ca26c04e5804)
 
-## Installation
-### 1. Clone the repo
-```bash
-git clone https://github.com/yazansh101/movie-app.git
-cd flutter-movie-app
-```
-### 2. Run pub get
-```bash
-flutter pub get
-```
-### 3. Add your API key into api_constants file
-```bash
-apiKey = 'YOUR_API_KEY';
-```
-### 4. Run the app
-```bash 
-flutter run
-```
 
 ## Packages
 - [cached_network_image](https://pub.dev/packages/cached_network_image)
@@ -59,3 +44,23 @@ flutter run
 - [shimmer](https://pub.dev/packages/shimmer)
 - [stream_transform](https://pub.dev/packages/stream_transform)
 - [url_launcher](https://pub.dev/packages/url_launcher)
+
+
+## Installation
+### 1. Clone the repo
+```bash
+git clone https://github.com/yazansh101/movie-app.git
+cd flutter-movie-app
+```
+### 2. Run pub get
+```bash
+flutter pub get
+```
+### 3. Add your API key into api_constants file
+```bash
+apiKey = 'YOUR_API_KEY';
+```
+### 4. Run the app
+```bash 
+flutter run
+```
